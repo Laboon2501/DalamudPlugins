@@ -43,5 +43,31 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "AcceptsFeedback": false
+  },
+  {
+    "Author": "Eunox",
+    "Name": "Yourcraft",
+    "InternalName": "Yourcraft",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Yourcraft creates and restores persistent actors, applies saved appearances, and edits local scene objects with GPose-aware rebuild support.",
+    "Punchline": "Persistent actors and local scene editing for GPose.",
+    "RepoUrl": "https://github.com/Laboon2501/Yourcraft",
+    "DownloadLink": "https://github.com/Laboon2501/Yourcraft/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Laboon2501/Yourcraft/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Laboon2501/Yourcraft/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Laboon2501/Yourcraft/releases/latest/download/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Laboon2501/DalamudPlugins/main/icons/Yourcraft.png",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "gpose",
+      "actor",
+      "scene",
+      "local"
+    ],
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true
   }
 ]
