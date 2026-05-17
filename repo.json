@@ -52,7 +52,7 @@
         "Author":  "Eunox",
         "Name":  "Yourcraft",
         "InternalName":  "Yourcraft",
-        "AssemblyVersion":  "0.1.2.0",
+        "AssemblyVersion":  "0.1.3.0",
         "Description":  "地图编辑器-你的世界。支持创建持久化角色/编辑本地物件等。Yourcraft creates and restores persistent actors, applies saved appearances, and edits local scene objects with GPose-aware rebuild support.",
         "Punchline":  "地图编辑器 Map Editor",
         "RepoUrl":  "https://github.com/Laboon2501/Yourcraft",
